@@ -7,7 +7,7 @@ trigger:
   - main
 
 pool:
-  name: ubuntu-pool
+  name: azure-devops-pool
 
 jobs:
   - job: TestAgent
